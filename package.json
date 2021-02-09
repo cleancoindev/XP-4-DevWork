@@ -1,0 +1,22 @@
+{
+  "name": "template-instance",
+  "version": "0.1.0",
+  "description": "MetaGame's XP System powered by SourceCred",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sourcecred": "0.7.6"
+  },
+  "scripts": {
+    "clean": "rimraf cache site",
+    "clean-all": "yarn clean && rimraf output",
+    "load": "dotenv sourcecred load",
+    "go": "dotenv sourcecred go",
+    "start": "dotenv -- sourcecred go --no-load && sourcecred serve",
+    "grain": "sourcecred grain"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "dotenv-cli": "^4.0.0"
+  }
+}

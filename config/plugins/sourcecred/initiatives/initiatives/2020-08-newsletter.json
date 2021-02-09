@@ -1,0 +1,201 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Writing Newsletter",
+    "timestampIso": "2020-08-01T10:00:00.000Z",
+    "completed": true,
+    "weight": {
+      "incomplete": 13,
+      "complete": 13
+    },
+    "champions": [
+      "@peth-yursick"
+    ],
+    "dependencies": {},
+    "references": {},
+    "contributions": {
+      "entries": [
+        {
+          "weight": 5,
+          "title": "Rolling into Closed Beta",
+          "timestampIso": "2020-08-15T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "How Not To Get Kicked",
+          "timestampIso": "2020-08-20T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Sunday thoughts & party invitations",
+          "timestampIso": "2020-08-23T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Happy Birthday MetaGame!",
+          "timestampIso": "2020-08-26T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #26 - MyMeta, MetaMaps, MetaRadio etc.",
+          "timestampIso": "2020-09-02T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Start Farming XP & Join The Inner Circle",
+          "timestampIso": "2020-09-10T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Only 4 Spots Left; What Are The Raids?",
+          "timestampIso": "2020-09-17T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #28 - MetaGame Is In Trouble",
+          "timestampIso": "2020-09-24T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #29 - SELL. YOUR. SEEDS.",
+          "timestampIso": "2020-10-01T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #30 - House of DAOs",
+          "timestampIso": "2020-10-07T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #31 - WTF is MyMeta",
+          "timestampIso": "2020-10-15T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #32 - How To Play MetaGame",
+          "timestampIso": "2020-10-22T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #33 - Phases of MetaGame",
+          "timestampIso": "2020-10-29T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #34 - XP & Seeds",
+          "timestampIso": "2020-11-05T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #35 - Seeds Pump",
+          "timestampIso": "2020-11-12T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #36 - State of Raids",
+          "timestampIso": "2020-11-19T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #37 - MetaManifesto 2.0",
+          "timestampIso": "2020-11-26T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #38 - House of Ethereum",
+          "timestampIso": "2020-12-03T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #39 - The 300 of MetaGame",
+          "timestampIso": "2020-12-10T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #40 - Forking The Society",
+          "timestampIso": "2020-12-17T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick",
+            "https://forum.metagame.wtf/u/METADREAMER"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #41 - Season1 Launched",
+          "timestampIso": "2020-12-27T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        },
+        {
+          "weight": 5,
+          "title": "Meta #42 - MetaSys; Kicking off the Year of DAOs",
+          "timestampIso": "2021-01-03T07:00:00.000Z",
+          "contributors": [
+            "@peth-yursick"
+          ]
+        }
+      ]
+    }
+  }
+]
